@@ -10,7 +10,7 @@ import Foundation
 class CardViewModelMockData {
     static let cardViewModel = CardViewModel(
         model: CardModel(
-            imageUrl: URL(string: "https://raw.githubusercontent.com/jigsawpieces/dog-api-images/main/boxer/n02108089_9778.jpg"),
+            imageUrl: URL(string: "https://raw.githubusercontent.com/jigsawpieces/dog-api-images/main/boxer/n02108089_9724.jpg"),
             heading: "American Bulldog",
             subheading: "This breed is an American Bulldog",
             isFavorite: false,
@@ -18,7 +18,7 @@ class CardViewModelMockData {
 
     static let noImageCardViewModel = CardViewModel(
         model: CardModel(
-            imageUrl: nil,
+            imageUrl: URL(string: "https://raw.githubusercontent.com/jigsawpieces/dog-api-images/main/boxer/n02108089_9778.jpg"),
             heading: "American Bulldog",
             subheading: "This breed is an American Bulldog",
             isFavorite: false,

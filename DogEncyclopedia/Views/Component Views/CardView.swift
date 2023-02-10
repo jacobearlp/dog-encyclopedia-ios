@@ -18,13 +18,14 @@ struct CardView: View {
                     image
                         .resizable()
                         .scaledToFill()
-                        .frame(height: 130)
+                        .frame(width: width - 20, height: 130)
+                        .background(.teal)
                         .clipped()
                         .cornerRadius(12)
                 } placeholder: {
                     Rectangle()
                         .fill(.teal)
-                        .frame(height: 130)
+                        .frame(width: width - 20, height: 130)
                         .cornerRadius(12)
                 }
             }
@@ -34,13 +35,12 @@ struct CardView: View {
                         .frame(height: 10)
                     HStack {
                         Spacer()
-                        RoundButtonView(iconName: "heart.fill", action: {  })
+                        RoundButtonView(iconName: viewModel.model.favoriteIconName, action: {  })
                     }
                     .padding(.trailing, 10)
                     Spacer()
                 }
             )
-            .padding(.horizontal, 10)
             .padding(.top, 12)
 
             VStack(alignment: .leading) {
@@ -61,14 +61,14 @@ struct CardView: View {
 
             Spacer()
         }
-        .frame(maxWidth: width, minHeight: 250, maxHeight: 260)
+        .frame(width: width, height: 250)
         .background(.white)
         .cornerRadius(15)
     }
 }
 
 struct CardView_PreviewProvider: PreviewProvider {
-    static let cellWidth = (ViewGeometry.fullScreenWidth - 10) / 2
+    static let cellWidth = (ViewGeometry.fullScreenWidth - 30) / 2
     static var previews: some View {
         HStack {
             CardView(viewModel: CardViewModelMockData.cardViewModel, width: cellWidth)
@@ -77,6 +77,7 @@ struct CardView_PreviewProvider: PreviewProvider {
             CardView(viewModel: CardViewModelMockData.noImageCardViewModel, width: cellWidth)
                 .padding(.vertical, 10)
         }
+        .padding(.horizontal, 10)
         .background(AppColor.vistaWhite.color)
     }
 }
