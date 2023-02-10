@@ -1,0 +1,534 @@
+{
+    "dogs": [
+        {
+            "breed_name": "Affenpinscher",
+            "image_urls": [
+                "https://raw.githubusercontent.com/jigsawpieces/dog-api-images/master/affenpinscher/n02110627_9822.jpg",
+                "https://raw.githubusercontent.com/jigsawpieces/dog-api-images/master/affenpinscher/n02110627_9634.jpg",
+                "https://raw.githubusercontent.com/jigsawpieces/dog-api-images/master/affenpinscher/n02110627_946.jpg",
+                "https://raw.githubusercontent.com/jigsawpieces/dog-api-images/master/affenpinscher/n02110627_8949.jpg",
+                "https://raw.githubusercontent.com/jigsawpieces/dog-api-images/master/affenpinscher/n02110627_8856.jpg",
+                "https://raw.githubusercontent.com/jigsawpieces/dog-api-images/master/affenpinscher/n02110627_8714.jpg",
+                "https://raw.githubusercontent.com/jigsawpieces/dog-api-images/master/affenpinscher/n02110627_8695.jpg",
+                "https://raw.githubusercontent.com/jigsawpieces/dog-api-images/master/affenpinscher/n02110627_8621.jpg",
+                "https://raw.githubusercontent.com/jigsawpieces/dog-api-images/master/affenpinscher/n02110627_8519.jpg",
+                "https://raw.githubusercontent.com/jigsawpieces/dog-api-images/master/affenpinscher/n02110627_8250.jpg"
+            ]
+        },
+        {
+            "breed_name": "African",
+            "image_urls": [
+                "https://raw.githubusercontent.com/jigsawpieces/dog-api-images/master/african/n02116738_9924.jpg",
+                "https://raw.githubusercontent.com/jigsawpieces/dog-api-images/master/african/n02116738_9844.jpg",
+                "https://raw.githubusercontent.com/jigsawpieces/dog-api-images/master/african/n02116738_9829.jpg",
+                "https://raw.githubusercontent.com/jigsawpieces/dog-api-images/master/african/n02116738_9818.jpg",
+                "https://raw.githubusercontent.com/jigsawpieces/dog-api-images/master/african/n02116738_9798.jpg",
+                "https://raw.githubusercontent.com/jigsawpieces/dog-api-images/master/african/n02116738_9769.jpg"
+            ]
+        },
+        {
+            "breed_name": "Airedale",
+            "image_urls": [
+                "https://raw.githubusercontent.com/jigsawpieces/dog-api-images/master/airedale/n02096051_982.jpg",
+                "https://raw.githubusercontent.com/jigsawpieces/dog-api-images/master/airedale/n02096051_9631.jpg",
+                "https://raw.githubusercontent.com/jigsawpieces/dog-api-images/master/airedale/n02096051_9617.jpg",
+                "https://raw.githubusercontent.com/jigsawpieces/dog-api-images/master/airedale/n02096051_9581.jpg",
+                "https://raw.githubusercontent.com/jigsawpieces/dog-api-images/master/airedale/n02096051_950.jpg",
+                "https://raw.githubusercontent.com/jigsawpieces/dog-api-images/master/airedale/n02096051_9440.jpg",
+                "https://raw.githubusercontent.com/jigsawpieces/dog-api-images/master/airedale/n02096051_9427.jpg",
+                "https://raw.githubusercontent.com/jigsawpieces/dog-api-images/master/airedale/n02096051_9391.jpg"
+            ]
+        },
+        {
+            "breed_name": "Akita",
+            "image_urls": [
+                "https://raw.githubusercontent.com/jigsawpieces/dog-api-images/master/akita/Japaneseakita.jpg",
+                "https://raw.githubusercontent.com/jigsawpieces/dog-api-images/master/akita/An_Akita_Inu_resting.jpg",
+                "https://raw.githubusercontent.com/jigsawpieces/dog-api-images/master/akita/Akita_inu_blanc.jpg",
+                "https://raw.githubusercontent.com/jigsawpieces/dog-api-images/master/akita/Akita_hiking_in_Shpella_e_Pellumbasit.jpg",
+                "https://raw.githubusercontent.com/jigsawpieces/dog-api-images/master/akita/Akita_Inu_dog.jpg",
+                "https://raw.githubusercontent.com/jigsawpieces/dog-api-images/master/akita/Akita_Dog.jpg",
+                "https://raw.githubusercontent.com/jigsawpieces/dog-api-images/master/akita/Akina_Inu_in_Riga_1.jpg"
+            ]
+        },
+        {
+            "breed_name": "Appenzeller",
+            "image_urls": [
+                "https://raw.githubusercontent.com/jigsawpieces/dog-api-images/master/appenzeller/n02107908_94.jpg",
+                "https://raw.githubusercontent.com/jigsawpieces/dog-api-images/master/appenzeller/n02107908_933.jpg",
+                "https://raw.githubusercontent.com/jigsawpieces/dog-api-images/master/appenzeller/n02107908_91.jpg",
+                "https://raw.githubusercontent.com/jigsawpieces/dog-api-images/master/appenzeller/n02107908_9.jpg",
+                "https://raw.githubusercontent.com/jigsawpieces/dog-api-images/master/appenzeller/n02107908_895.jpg",
+                "https://raw.githubusercontent.com/jigsawpieces/dog-api-images/master/appenzeller/n02107908_849.jpg",
+                "https://raw.githubusercontent.com/jigsawpieces/dog-api-images/master/appenzeller/n02107908_8207.jpg",
+                "https://raw.githubusercontent.com/jigsawpieces/dog-api-images/master/appenzeller/n02107908_80.jpg"
+            ]
+        },
+        {
+            "breed_name": "Australian Shepherd",
+            "image_urls": [
+                "https://github.com/jigsawpieces/dog-api-images/blob/master/australian-shepherd/sadie.jpg",
+                "https://github.com/jigsawpieces/dog-api-images/blob/master/australian-shepherd/pepper2.jpg",
+                "https://github.com/jigsawpieces/dog-api-images/blob/master/australian-shepherd/pepper.jpg",
+                "https://github.com/jigsawpieces/dog-api-images/blob/master/australian-shepherd/leroy.jpg",
+                "https://github.com/jigsawpieces/dog-api-images/blob/master/australian-shepherd/forest.jpg"
+            ]
+        },
+        {
+            "breed_name": "Basenji",
+            "image_urls": [
+                "https://raw.githubusercontent.com/jigsawpieces/dog-api-images/master/basenji/n02110806_979.jpg",
+                "https://raw.githubusercontent.com/jigsawpieces/dog-api-images/master/basenji/n02110806_919.jpg",
+                "https://raw.githubusercontent.com/jigsawpieces/dog-api-images/master/basenji/n02110806_884.jpg",
+                "https://raw.githubusercontent.com/jigsawpieces/dog-api-images/master/basenji/n02110806_849.jpg",
+                "https://raw.githubusercontent.com/jigsawpieces/dog-api-images/master/basenji/n02110806_839.jpg",
+                "https://raw.githubusercontent.com/jigsawpieces/dog-api-images/master/basenji/n02110806_762.jpg",
+                "https://raw.githubusercontent.com/jigsawpieces/dog-api-images/master/basenji/n02110806_761.jpg",
+                "https://raw.githubusercontent.com/jigsawpieces/dog-api-images/master/basenji/n02110806_759.jpg",
+                "https://raw.githubusercontent.com/jigsawpieces/dog-api-images/master/basenji/n02110806_757.jpg"
+            ]
+        },
+        {
+            "breed_name": "Beagle",
+            "image_urls": [
+                "https://pngfre.com/wp-content/uploads/1653590273939.png",
+                "https://raw.githubusercontent.com/jigsawpieces/dog-api-images/master/beagle/n02088364_12397.jpg",
+                "https://raw.githubusercontent.com/jigsawpieces/dog-api-images/master/beagle/n02088364_12440.jpg",
+                "https://raw.githubusercontent.com/jigsawpieces/dog-api-images/master/beagle/n02088364_12713.jpg",
+                "https://raw.githubusercontent.com/jigsawpieces/dog-api-images/master/beagle/n02088364_12973.jpg",
+                "https://raw.githubusercontent.com/jigsawpieces/dog-api-images/master/beagle/n02088364_13214.jpg",
+                "https://raw.githubusercontent.com/jigsawpieces/dog-api-images/master/beagle/n02088364_13428.jpg"
+            ]
+        },
+        {
+            "breed_name": "Bluetick",
+            "image_urls": [
+                "https://raw.githubusercontent.com/jigsawpieces/dog-api-images/master/bluetick/n02088632_982.jpg",
+                "https://raw.githubusercontent.com/jigsawpieces/dog-api-images/master/bluetick/n02088632_926.jpg",
+                "https://raw.githubusercontent.com/jigsawpieces/dog-api-images/master/bluetick/n02088632_924.jpg",
+                "https://raw.githubusercontent.com/jigsawpieces/dog-api-images/master/bluetick/n02088632_916.jpg",
+                "https://raw.githubusercontent.com/jigsawpieces/dog-api-images/master/bluetick/n02088632_874.jpg",
+                "https://raw.githubusercontent.com/jigsawpieces/dog-api-images/master/bluetick/n02088632_87.jpg"
+            ]
+        },
+        {
+            "breed_name": "Borzoi",
+            "image_urls": [
+                "https://raw.githubusercontent.com/jigsawpieces/dog-api-images/master/borzoi/n02090622_9415.jpg",
+                "https://raw.githubusercontent.com/jigsawpieces/dog-api-images/master/borzoi/n02090622_9662.jpg",
+                "https://raw.githubusercontent.com/jigsawpieces/dog-api-images/master/borzoi/n02090622_9708.jpg",
+                "https://raw.githubusercontent.com/jigsawpieces/dog-api-images/master/borzoi/n02090622_9786.jpg",
+                "https://raw.githubusercontent.com/jigsawpieces/dog-api-images/master/borzoi/n02090622_9814.jpg",
+                "https://raw.githubusercontent.com/jigsawpieces/dog-api-images/master/borzoi/n02090622_8849.jpg"
+            ]
+        },
+        {
+            "breed_name": "Bouvier",
+            "image_urls": [
+                "https://raw.githubusercontent.com/jigsawpieces/dog-api-images/master/bouvier/PXL_20220130_185250212.jpg",
+                "https://raw.githubusercontent.com/jigsawpieces/dog-api-images/master/bouvier/n02106382_2456.jpg",
+                "https://raw.githubusercontent.com/jigsawpieces/dog-api-images/master/bouvier/n02106382_2536.jpg",
+                "https://raw.githubusercontent.com/jigsawpieces/dog-api-images/master/bouvier/n02106382_2543.jpg",
+                "https://raw.githubusercontent.com/jigsawpieces/dog-api-images/master/bouvier/n02106382_2553.jpg",
+                "https://raw.githubusercontent.com/jigsawpieces/dog-api-images/master/bouvier/n02106382_2676.jpg"
+            ]
+        },
+        {
+            "breed_name": "Boxer",
+            "image_urls": [
+                "https://raw.githubusercontent.com/jigsawpieces/dog-api-images/master/boxer/n02108089_1003.jpg",
+                "https://raw.githubusercontent.com/jigsawpieces/dog-api-images/master/boxer/n02108089_1031.jpg",
+                "https://raw.githubusercontent.com/jigsawpieces/dog-api-images/master/boxer/n02108089_10901.jpg",
+                "https://raw.githubusercontent.com/jigsawpieces/dog-api-images/master/boxer/n02108089_11001.jpg",
+                "https://raw.githubusercontent.com/jigsawpieces/dog-api-images/master/boxer/n02108089_11032.jpg",
+                "https://raw.githubusercontent.com/jigsawpieces/dog-api-images/master/boxer/n02108089_1104.jpg",
+                "https://raw.githubusercontent.com/jigsawpieces/dog-api-images/master/boxer/n02108089_11154.jpg",
+                "https://raw.githubusercontent.com/jigsawpieces/dog-api-images/master/boxer/n02108089_11875.jpg"
+            ]
+        },
+        {
+            "breed_name": "Brabancon",
+            "image_urls": [
+                "https://raw.githubusercontent.com/jigsawpieces/dog-api-images/master/brabancon/n02112706_977.jpg",
+                "https://raw.githubusercontent.com/jigsawpieces/dog-api-images/master/brabancon/n02112706_967.jpg",
+                "https://raw.githubusercontent.com/jigsawpieces/dog-api-images/master/brabancon/n02112706_888.jpg",
+                "https://raw.githubusercontent.com/jigsawpieces/dog-api-images/master/brabancon/n02112706_86.jpg",
+                "https://raw.githubusercontent.com/jigsawpieces/dog-api-images/master/brabancon/n02112706_793.jpg",
+                "https://raw.githubusercontent.com/jigsawpieces/dog-api-images/master/brabancon/n02112706_735.jpg",
+                "https://raw.githubusercontent.com/jigsawpieces/dog-api-images/master/brabancon/n02112706_678.jpg"
+            ]
+        },
+        {
+            "breed_name": "Briard",
+            "image_urls": [
+                "https://raw.githubusercontent.com/jigsawpieces/dog-api-images/master/briard/n02105251_12.jpg",
+                "https://raw.githubusercontent.com/jigsawpieces/dog-api-images/master/briard/n02105251_9020.jpg",
+                "https://raw.githubusercontent.com/jigsawpieces/dog-api-images/master/briard/n02105251_8891.jpg",
+                "https://raw.githubusercontent.com/jigsawpieces/dog-api-images/master/briard/n02105251_8857.jpg",
+                "https://raw.githubusercontent.com/jigsawpieces/dog-api-images/master/briard/n02105251_8848.jpg",
+                "https://raw.githubusercontent.com/jigsawpieces/dog-api-images/master/briard/n02105251_8725.jpg"
+            ]
+        },
+        {
+            "breed_name": "Buhund Norwegian",
+            "image_urls": [
+                "https://raw.githubusercontent.com/jigsawpieces/dog-api-images/master/buhund-norwegian/hakon2.jpg",
+                "https://raw.githubusercontent.com/jigsawpieces/dog-api-images/master/buhund-norwegian/hakon1.jpg",
+                "https://raw.githubusercontent.com/jigsawpieces/dog-api-images/master/buhund-norwegian/hakon3.jpg"
+            ]
+        },
+        {
+            "breed_name": "Bulldog Boston",
+            "image_urls": [
+                "https://raw.githubusercontent.com/jigsawpieces/dog-api-images/master/bulldog-boston/n02096585_10604.jpg",
+                "https://raw.githubusercontent.com/jigsawpieces/dog-api-images/master/bulldog-boston/n02096585_10734.jpg",
+                "https://raw.githubusercontent.com/jigsawpieces/dog-api-images/master/bulldog-boston/n02096585_10768.jpg",
+                "https://raw.githubusercontent.com/jigsawpieces/dog-api-images/master/bulldog-boston/n02096585_10823.jpg",
+                "https://raw.githubusercontent.com/jigsawpieces/dog-api-images/master/bulldog-boston/n02096585_10846.jpg",
+                "https://raw.githubusercontent.com/jigsawpieces/dog-api-images/master/bulldog-boston/n02096585_11180.jpg"
+            ]
+        },
+        {
+            "breed_name": "Bulldog English",
+            "image_urls": [
+                "https://raw.githubusercontent.com/jigsawpieces/dog-api-images/master/bulldog-english/jager-1.jpg",
+                "https://raw.githubusercontent.com/jigsawpieces/dog-api-images/master/bulldog-english/jager-2.jpg",
+                "https://raw.githubusercontent.com/jigsawpieces/dog-api-images/master/bulldog-english/mami.jpg",
+                "https://raw.githubusercontent.com/jigsawpieces/dog-api-images/master/bulldog-english/murphy.jpg",
+                "https://raw.githubusercontent.com/jigsawpieces/dog-api-images/master/bulldog-english/bunz.jpg"
+            ]
+        },
+        {
+            "breed_name": "Bulldog French",
+            "image_urls": [
+                "https://raw.githubusercontent.com/jigsawpieces/dog-api-images/master/bulldog-french/IMG_0846.jpg",
+                "https://raw.githubusercontent.com/jigsawpieces/dog-api-images/master/bulldog-french/hunghung.jpg",
+                "https://raw.githubusercontent.com/jigsawpieces/dog-api-images/master/bulldog-french/n02108915_12319.jpg",
+                "https://raw.githubusercontent.com/jigsawpieces/dog-api-images/master/bulldog-french/n02108915_12618.jpg",
+                "https://raw.githubusercontent.com/jigsawpieces/dog-api-images/master/bulldog-french/n02108915_12460.jpg",
+                "https://raw.githubusercontent.com/jigsawpieces/dog-api-images/master/bulldog-french/n02108915_12904.jpg"
+            ]
+        },
+        {
+            "breed_name": "Bullterrier Staffordshire"
+        },
+        {
+            "breed_name": "Cattledog Australian"
+        },
+        {
+            "breed_name": "Chihuahua"
+        },
+        {
+            "breed_name": "Chow"
+        },
+        {
+            "breed_name": "Clumber"
+        },
+        {
+            "breed_name": "Cockapoo"
+        },
+        {
+            "breed_name": "Collie Border"
+        },
+        {
+            "breed_name": "Collie"
+        },
+        {
+            "breed_name": "Coonhound"
+        },
+        {
+            "breed_name": "Corgi Cardigan"
+        },
+        {
+            "breed_name": "Corgi"
+        },
+        {
+            "breed_name": "Cotondetulear"
+        },
+        {
+            "breed_name": "Dachshund"
+        },
+        {
+            "breed_name": "Dalmatian"
+        },
+        {
+            "breed_name": "Dane Great"
+        },
+        {
+            "breed_name": "Deerhound Scottish"
+        },
+        {
+            "breed_name": "Dhole"
+        },
+        {
+            "breed_name": "Dingo"
+        },
+        {
+            "breed_name": "Doberman"
+        },
+        {
+            "breed_name": "Elkhound Norwegian"
+        },
+        {
+            "breed_name": "Entlebucher"
+        },
+        {
+            "breed_name": "Eskimo"
+        },
+        {
+            "breed_name": "Finnish Lapphund"
+        },
+        {
+            "breed_name": "Frise Bichon"
+        },
+        {
+            "breed_name": "German Shepherd"
+        },
+        {
+            "breed_name": "Greyhound Italian"
+        },
+        {
+            "breed_name": "Greyhound"
+        },
+        {
+            "breed_name": "Groenendael"
+        },
+        {
+            "breed_name": "Havanese"
+        },
+        {
+            "breed_name": "Hound Afghan"
+        },
+        {
+            "breed_name": "Hound Basset"
+        },
+        {
+            "breed_name": "Hound Blood"
+        },
+        {
+            "breed_name": "Hound English"
+        },
+        {
+            "breed_name": "Hound Ibizan"
+        },
+        {
+            "breed_name": "Hound Plott"
+        },
+        {
+            "breed_name": "Hound Walker"
+        },
+        {
+            "breed_name": "Husky"
+        },
+        {
+            "breed_name": "Keeshond"
+        },
+        {
+            "breed_name": "Kelpie"
+        },
+        {
+            "breed_name": "Komondor"
+        },
+        {
+            "breed_name": "Kuvasz"
+        },
+        {
+            "breed_name": "Labradoodle"
+        },
+        {
+            "breed_name": "Labrador"
+        },
+        {
+            "breed_name": "Leonberg"
+        },
+        {
+            "breed_name": "Lhasa"
+        },
+        {
+            "breed_name": "Malamute"
+        },
+        {
+            "breed_name": "Malinois"
+        },
+        {
+            "breed_name": "Maltese"
+        },
+        {
+            "breed_name": "Mastiff Bull"
+        },
+        {
+            "breed_name": "Mastiff English"
+        },
+        {
+            "breed_name": "Mastiff Tibetan"
+        },
+        {
+            "breed_name": "Mexican Hairless"
+        },
+        {
+            "breed_name": "Mountain Bernese"
+        },
+        {
+            "breed_name": "Mountain Swiss"
+        },
+        {
+            "breed_name": "Otterhound"
+        },
+        {
+            "breed_name": "Papillon"
+        },
+        {
+            "breed_name": "Pekinese"
+        },
+        {
+            "breed_name": "Pembroke"
+        },
+        {
+            "breed_name": "Pinscher Miniature"
+        },
+        {
+            "breed_name": "Pinscher"
+        },
+        {
+            "breed_name": "Pitbull"
+        },
+        {
+            "breed_name": "Pointer German"
+        },
+        {
+            "breed_name": "Pointer German Longhair"
+        },
+        {
+            "breed_name": "Pomeranian"
+        },
+        {
+            "breed_name": "Poodle Medium"
+        },
+        {
+            "breed_name": "Poodle Miniature"
+        },
+        {
+            "breed_name": "Poodle Standard"
+        },
+        {
+            "breed_name": "Poodle Toy"
+        },
+        {
+            "breed_name": "Pug"
+        },
+        {
+            "breed_name": "Puggle"
+        },
+        {
+            "breed_name": "Pyrenees"
+        },
+        {
+            "breed_name": "Redbone"
+        },
+        {
+            "breed_name": "Retriever Chesapeake"
+        },
+        {
+            "breed_name": "Retriever Curly"
+        },
+        {
+            "breed_name": "Retriever Flat Coated"
+        },
+        {
+            "breed_name": "Retriever Golden"
+        },
+        {
+            "breed_name": "Ridgeback Rhodesian"
+        },
+        {
+            "breed_name": "Rottweiler"
+        },
+        {
+            "breed_name": "Saluki"
+        },
+        {
+            "breed_name": "Samoyed"
+        },
+        {
+            "breed_name": "Schipperke"
+        },
+        {
+            "breed_name": "Schnauzer Giant"
+        },
+        {
+            "breed_name": "Schnauzer Miniature"
+        },
+        {
+            "breed_name": "Schnauzer"
+        },
+        {
+            "breed_name": "Segugio Italian"
+        },
+        {
+            "breed_name": "Setter English"
+        },
+        {
+            "breed_name": "Sharpei"
+        },
+        {
+            "breed_name": "Sheepdog"
+        },
+        {
+            "breed_name": "Shiba"
+        },
+        {
+            "breed_name": "Shihtzu"
+        },
+        {
+            "breed_name": "Spaniel"
+        },
+        {
+            "breed_name": "Spit Japanese"
+        },
+        {
+            "breed_name": "Springer English"
+        },
+        {
+            "breed_name": "St Bernard"
+        },
+        {
+            "breed_name": "Terrier Silky"
+        },
+        {
+            "breed_name": "Terrier Tibetan"
+        },
+        {
+            "breed_name": "Terrier Toy"
+        },
+        {
+            "breed_name": "Terrier Welsh"
+        },
+        {
+            "breed_name": "Terrier West Highland"
+        },
+        {
+            "breed_name": "Terrier Wheaten"
+        },
+        {
+            "breed_name": "Terrier Yorkshire"
+        },
+        {
+            "breed_name": "Tervuren"
+        },
+        {
+            "breed_name": "Vizsla"
+        },
+        {
+            "breed_name": "Waterdog Spanish"
+        },
+        {
+            "breed_name": "Weimaraner"
+        },
+        {
+            "breed_name": "Whippet"
+        },
+        {
+            "breed_name": "Wolfhound Irish"
+        }
+    ]
+}

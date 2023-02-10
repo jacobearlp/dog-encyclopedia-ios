@@ -12,11 +12,9 @@ struct MainTabsView: View {
 
     var body: some View {
         TabView(selection: $selectedTab) {
-            VStack {
-                Text("Home")
-            }
-            .tabItem { TabType.home.tabView }
-            .tag(TabType.home)
+            HomeView(viewModel: HomeViewModel())
+                .tabItem { TabType.home.tabView }
+                .tag(TabType.home)
 
             VStack {
                 Text("Favorites")

@@ -7,10 +7,26 @@
 
 import Foundation
 
-struct CardModel {
+struct CardModel: Hashable {
     var imageUrl: URL?
     var heading: String
     var subheading: String
     var isFavorite: Bool
     var favoriteIconName: String
+
+    init(imageUrl: URL? = nil, heading: String, subheading: String, isFavorite: Bool, favoriteIconName: String) {
+        self.imageUrl = imageUrl
+        self.heading = heading
+        self.subheading = subheading
+        self.isFavorite = isFavorite
+        self.favoriteIconName = favoriteIconName
+    }
+
+    init(dog: DogModel) {
+        self.init(imageUrl: dog.imageUrls?.first,
+                  heading: dog.breedName,
+                  subheading: "",
+                  isFavorite: false,
+                  favoriteIconName: "heart")
+    }
 }
