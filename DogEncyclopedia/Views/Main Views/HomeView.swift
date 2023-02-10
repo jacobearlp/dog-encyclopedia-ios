@@ -21,7 +21,8 @@ struct HomeView: View {
             VStack(alignment: .leading) {
                 Text("Search for a dog breed")
                     .font(.title2)
-                InputFieldView(textValue: $viewModel.searchText)
+                InputFieldView(textValue: $viewModel.searchText,
+                               placeHolderText: $viewModel.searchPlaceholder)
                     .frame(height: 50)
             }
             .padding(.horizontal, 24)

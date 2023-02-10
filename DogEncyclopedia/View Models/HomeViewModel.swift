@@ -10,17 +10,20 @@ import Foundation
 class HomeViewModel: ObservableObject {
     @Published var searchText = ""
     @Published var cards: [CardViewModel] = []
+    @Published var searchPlaceholder = "🔍 German Shepherd"
 
     private let dogsInLocal: [DogModel]
 
     init() {
         dogsInLocal = HomeViewModel.getDogs()
         cards = dogsInLocal.map { CardViewModel(model: CardModel(dog: $0)) }
+        setUpdatePlaceholder()
     }
 
     init(cards: [CardModel]) {
         dogsInLocal = HomeViewModel.getDogs()
         self.cards = cards.map { CardViewModel(model: $0) }
+        setUpdatePlaceholder()
     }
 
     func searchDog(text: String) {
@@ -44,6 +47,15 @@ class HomeViewModel: ObservableObject {
         } catch {
             print("Error: \(error)")
             return []
+        }
+    }
+
+    private func setUpdatePlaceholder() {
+        Timer.scheduledTimer(withTimeInterval: 1.5, repeats: true) { [weak self] _ in
+            guard let self = self else { return }
+            let texts = self.dogsInLocal.map { $0.breedName }
+            let random = Int.random(in: 0...texts.count - 1)
+            self.searchPlaceholder = "🔍 " + texts[random]
         }
     }
 }

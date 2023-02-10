@@ -9,6 +9,7 @@ import SwiftUI
 
 struct InputFieldView: View {
     @Binding var textValue: String
+    @Binding var placeHolderText: String
     var body: some View {
         ZStack {
             RoundedRectangle(cornerRadius: 8)
@@ -22,7 +23,8 @@ struct InputFieldView: View {
                         .stroke(.gray.opacity(0.5), lineWidth: 0.25)
                 )
 
-            TextField("🔍 German Shepherd", text: $textValue)
+//            TextField("🔍 German Shepherd", text: $textValue)
+            TextField(placeHolderText, text: $textValue)
                 .font(.subheadline)
                 .foregroundColor(.black)
                 .padding(.horizontal, 15)
@@ -32,6 +34,6 @@ struct InputFieldView: View {
 
 struct InputFieldView_PreviewProvider: PreviewProvider {
     static var previews: some View {
-        InputFieldView(textValue: .constant(""))
+        InputFieldView(textValue: .constant(""), placeHolderText: .constant(""))
     }
 }
